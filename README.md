@@ -1,14 +1,14 @@
-# 🎥 Task 4 – Recommendation System using Collaborative Filtering (SVD)
+#  Task 4 – Recommendation System using Collaborative Filtering (SVD)
 
-## 📌 Internship Project – Machine Learning (CodTech)
+##  Internship Project – Machine Learning (CodTech)
 
-Hello! 👋 This repository contains my solution to **Task 4** of the CodTech Machine Learning Internship. The task was to build a **movie recommendation system** using **Collaborative Filtering or Matrix Factorization techniques**.
+Hello!  This repository contains my solution to **Task 4** of the CodTech Machine Learning Internship. The task was to build a **movie recommendation system** using **Collaborative Filtering or Matrix Factorization techniques**.
 
 I chose to implement **Collaborative Filtering using SVD (Singular Value Decomposition)** on the **MovieLens 100k** dataset.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To build a functional recommendation system that:
 - Learns user preferences from historical rating data
